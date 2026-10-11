@@ -16,4 +16,4 @@ jobs:
       - name: Compile Haskell implementation
         run: |
           mkdir -p build
-          ghc circuitos-digitais/Haskell/Main.hs -iHaskell -outputdir build -o build/digital-logic
+          ghc circuitos-digitais/Haskell/Main.hs -icircuitos-digitais/Haskell -outputdir build -o build/digital-logic
