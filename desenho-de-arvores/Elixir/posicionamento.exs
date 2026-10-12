@@ -1,5 +1,5 @@
 # Desenho de arvores - secao 3.4.7
-# Implementacao do algoritmo de posicionamento em Elixir.
+# Implementação do algoritmo de posicionamento em Elixir.
 
 defmodule DesenhoArvores do
 
